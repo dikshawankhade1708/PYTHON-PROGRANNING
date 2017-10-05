@@ -1,0 +1,5 @@
+#addition of one numbers
+>>>a=6
+>>>b=3
+>>>a+b
+9
